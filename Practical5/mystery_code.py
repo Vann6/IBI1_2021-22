@@ -12,7 +12,9 @@ from math import ceil
 
 progress=0
 while progress<10:
-        progress+=1
+        progress=progress+1
         n = randint(1,100)
-        print(n)
+        print(str(progress),n)
+
+#Randomly pick up ten numbers from 1 to 100.
         

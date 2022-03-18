@@ -6,4 +6,4 @@ while j<11:
     print("trangle", A, "has" , B, "dots")
     j=j+1
     
-#
+
