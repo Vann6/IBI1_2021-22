@@ -1,5 +1,5 @@
 # What does this piece of code do?
-# Answer:Generate ten numbers randomly from 1 to 100.
+# Answer:Generate a number randomly from 1 to 100 for ten times and output the last result. 
 
 # Import libraries
 # randint allows drawing a random number,
@@ -12,9 +12,7 @@ from math import ceil
 
 progress=0
 while progress<10:
-        progress=progress+1
-        n = randint(1,100)
-        print(str(progress),n)
+	progress+=1
+	n = randint(1,100)
 
-#Randomly pick up ten numbers from 1 to 100.
-        
+print(n)
