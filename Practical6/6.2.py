@@ -33,6 +33,7 @@ plt.xlabel("Fathers' age")
 plt.ylabel("The relative risk of congenital heart disease")
 plt.title("The relationship between fathers's age and relative risk of chd")
 #Create a title for the plot and labels for axises.
+
 plt.show()
 #Show the plot.
 
