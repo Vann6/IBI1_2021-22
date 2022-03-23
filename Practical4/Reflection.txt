@@ -1,5 +1,5 @@
 The overall structure of the Practical4 is clear but I encountered some 
 problems. First, I had trouble in installing the Git. Second, some steps 
-make me confused, because I don't know their meanings. Third, connection to 
+make me confused, because I don't know the exact meanings. Third, connection to 
 Github wasn't always stable.
 By asking questions and searching online, I think I can use Git fluently.
