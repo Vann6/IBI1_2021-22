@@ -9,6 +9,7 @@ plt.boxplot(marks,
             patch_artist=True,meanline=True,
             showbox=True,showfliers=True,
             showmeans=True,notch=False)
+plt.title('The boxplot for the marks')
 #Create a boxplot to display the distribution of marks.
 #Means and meanline are shown in the boxplot.
 average=sum(marks)/len(marks)
