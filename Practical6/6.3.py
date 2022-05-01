@@ -5,10 +5,10 @@ print(sorted(marks))
 import matplotlib.pyplot as plt
 #import module.
 
-plt.boxplot(marks,
+plt.boxplot([marks],
             patch_artist=True,meanline=True,
             showbox=True,showfliers=True,
-            showmeans=True,notch=False)
+            showmeans=True,notch=False,labels=["Marks"])
 plt.title('The boxplot for the marks')
 #Create a boxplot to display the distribution of marks.
 #Means and meanline are shown in the boxplot.
