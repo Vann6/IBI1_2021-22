@@ -1,11 +1,8 @@
 import os
-from typing import Any
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-from pandas import DataFrame
-from pandas.io.parsers import TextFileReader
+
 
 os.chdir('C:/cygwin/home/13016/IBI1_2021-22/Practical7')  # change the working directory.
 covid_data = pd.read_csv("full_data(2).csv")  # import the actual data.

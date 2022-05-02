@@ -1,0 +1,8 @@
+How have new cases and total cases developed over time in Spain?
+
+The main codes were stated in Covid.py. 
+The answer was stated in Covid.py from rows 25-28.
+
+What I expected: The new cases increased first and decreased after they reached their peak. For total cases, they would accumulate rapidly firstly and increase slower.
+Explanation: When new cases occurred. Because of the strong transmissibility of the covid, more cases will occur. And the total cases reflect the total number of people who were infected. So it will increase rapidly.
+Discussion: The data were limited. Only some data before April 2020 was included. 
